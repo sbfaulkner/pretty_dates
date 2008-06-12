@@ -18,4 +18,11 @@ Time::DATE_FORMATS[:long] = "%B %o, %Y at %i:%M %P %Z"
 Time::DATE_FORMATS[:short] = "%b %D %i:%M %P"
 => Jun 1 9:43 am
 
+
+Installation
+============
+
+./script/plugin install git://github.com/sbfaulkner/pretty_dates.git
+
+
 Copyright (c) 2008 unwwwired.net, released under the MIT license
